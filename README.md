@@ -17,9 +17,3 @@ The project follows clean Object-Oriented principles:
 * **Language:** C++
 * **Standard Libraries:** `vector`, `string`, `fstream`, `ctime`
 
----
-
-### 🕹️ Quick Start
-1. Include `WordGuessGame.h` in your project.
-2. Initialize with a word: `WordGuessGame game("coding", 6);`
-3. Use `game.guessLetter('c');` to play!
